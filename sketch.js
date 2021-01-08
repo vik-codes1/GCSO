@@ -9,8 +9,8 @@ function setup() {
   createCanvas(1600,400); 
   
   //making the random variable numbers
-  speed = random(50,90)
-  weight = random(200,1500)
+  speed = random(30,70)
+  weight = random(100,500)
 
   //making the sprites
   car = createSprite(50,200,100,50);
